@@ -40,7 +40,7 @@ public class AuthorizedViewTutorial {
     String srcProjectId = "YOUR_SOURCE_PROJECT_CONTAINING_SOURCE_DATASET";
     String destProjectId = "YOUR_DESTINATION_PROJECT_FOR_SHARING";
     String sourceDatasetId = "YOUR_SOURCE_DATASET";
-    String destDatasetId = "YOUR-DESTINATION_TABLE";
+    String destDatasetId = "YOUR_DESTINATION_DATASET";
     String destViewIds[] = { "VIEW1", "VIEW2" };
 
     for (String destViewId : destViewIds) {
